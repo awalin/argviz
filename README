@@ -1,0 +1,5 @@
+Add this eclipse/Argviz folder to your Eclipse workspace. It is an existing
+project you can import and use with the GWT plugin.
+
+Inside, the structure of folders is exactly what GWT requires. Java
+files are in the 'src' folder and html/css/php are in the 'war' folder.

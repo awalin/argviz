@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/19/Classes/cl2/project/eclipse/Argviz/war/data/obama_mccain2.txt
+END
+show_text.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/19/Classes/cl2/project/eclipse/Argviz/war/data/obama_mccain2.txt/show_text.txt
+END
+influence_ranks.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/19/Classes/cl2/project/eclipse/Argviz/war/data/obama_mccain2.txt/influence_ranks.txt
+END
+collocations.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/19/Classes/cl2/project/eclipse/Argviz/war/data/obama_mccain2.txt/collocations.txt
+END
+topic_shift_scores.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/19/Classes/cl2/project/eclipse/Argviz/war/data/obama_mccain2.txt/topic_shift_scores.txt
+END
+topic_word_distr.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/19/Classes/cl2/project/eclipse/Argviz/war/data/obama_mccain2.txt/topic_word_distr.txt
+END
+topic_distributions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/19/Classes/cl2/project/eclipse/Argviz/war/data/obama_mccain2.txt/topic_distributions.txt
+END

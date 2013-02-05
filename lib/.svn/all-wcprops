@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/4/Classes/cl2/project/eclipse/Argviz/lib
+END
+gwt-visualization-javadoc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/4/Classes/cl2/project/eclipse/Argviz/lib/gwt-visualization-javadoc.jar
+END
+gwt-visualization-noredist.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/4/Classes/cl2/project/eclipse/Argviz/lib/gwt-visualization-noredist.jar
+END
+smartgwt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/4/Classes/cl2/project/eclipse/Argviz/lib/smartgwt.jar
+END
+smartgwt-skins.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/4/Classes/cl2/project/eclipse/Argviz/lib/smartgwt-skins.jar
+END
+gwt-visualization.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/4/Classes/cl2/project/eclipse/Argviz/lib/gwt-visualization.jar
+END
